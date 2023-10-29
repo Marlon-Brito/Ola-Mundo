@@ -41,3 +41,37 @@ Lista demarcada:
 - Teste
 - Teste
   - Teste
+
+ Lista de Tarefas:
+ - [x] Criar a página principal
+ - [x] Criar a página da loja
+ - [ ] Finalizar a reunião com o cliente
+ - [ ] Receber pagamento
+
+![Gohan SSJ2](https://github.com/Marlon-Brito/Ola-Mundo/assets/148072815/6aea4c13-c766-4f72-8868-f96aa16a7379)
+
+[Acesse meu GitHub](https://github.com/Marlon-Brito)
+
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Marlon | 10,0
+3 | Otaku | 9,0
+
+Terminou a tabela
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript.
+
+Olha meu programa em JS:
+```
+num = parseFloat(window.prompt('Digite um valor: '));
+if (num % 2 == 0){
+    console.log(`O número ${num} é PAR.`);
+}else{
+    console.log(`O número ${num} é ÍMPAR.`);
+}
+```
+
+Galera, não entendi direito o que eu fiz:
+![Código](https://github.com/Marlon-Brito/Ola-Mundo/assets/148072815/2170251b-05a7-42a7-b335-72b3fc10b5a1)
