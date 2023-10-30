@@ -75,3 +75,18 @@ if (num % 2 == 0){
 
 Galera, não entendi direito o que eu fiz:
 ![Código](https://github.com/Marlon-Brito/Ola-Mundo/assets/148072815/2170251b-05a7-42a7-b335-72b3fc10b5a1)
+
+Olá, pequeno Gafanhoto 🖖
+Mão 🤙
+
+Mencionando perfis: @gustavoguanabara, @Marlon-Brito, @ikatyang
+
+Citação de Resposta:
+
+> Meus melhores projetos são:
+> 
+> * [Projeto Musicdot](https://github.com/Marlon-Brito/projeto-musicdot.git)
+>   Feito no curso gratuito da Alura.
+Muito legal sua postagem!
+
+> Citando uma resposta
