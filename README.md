@@ -75,4 +75,3 @@ if (num % 2 == 0){
 
 Galera, não entendi direito o que eu fiz:
 ![Código](https://github.com/Marlon-Brito/Ola-Mundo/assets/148072815/2170251b-05a7-42a7-b335-72b3fc10b5a1)
-
